@@ -4,5 +4,5 @@
 
 ### Example
 
-<img align="left" alt="win" width="150" hight='75' src="img/guess_my_number_win.jpg" />
-<img align="left" alt="lose" width="150" hight="75" src="img/gues_my_number_lose.jpg" />
+<img align="left" alt="win" width="200" hight='100' src="img/guess_my_number_win.jpg" />
+<img align="left" alt="lose" width="200" hight="100" src="img/gues_my_number_lose.jpg" />
